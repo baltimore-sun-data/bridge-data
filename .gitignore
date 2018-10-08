@@ -1,0 +1,9 @@
+*/*.ipynb_checkpoints
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+input/National_Bridge_Inventory.csv
+input/bridgereports.csv
+*/*/__MACOSX/
+*/__MACOSX/
+*.eps
+*.DS_Store

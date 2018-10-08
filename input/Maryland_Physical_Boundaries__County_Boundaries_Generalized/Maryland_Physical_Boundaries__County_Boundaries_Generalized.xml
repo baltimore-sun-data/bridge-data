@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin/>
+<title>Maryland Physical Boundaries - County Boundaries (Generalized)</title>
+<onlink>https://geodata.md.gov/imap/rest/services/Boundaries/MD_PhysicalBoundaries/FeatureServer/1</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.Polygon layer contains generalized outlines of Maryland counties.Last Updated: UnknownFeature Service Link:https://geodata.md.gov/imap/rest/services/Boundaries/MD_PhysicalBoundaries/FeatureServer/1</abstract>
+<purpose>Maryland Physical Boundaries - County Boundaries (Generalized)</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>physical</themekey>
+<themekey>land</themekey>
+<themekey>county</themekey>
+<themekey>boundary</themekey>
+<themekey>shoreline</themekey>
+<themekey>Vector</themekey>
+<themekey>Dynamic</themekey>
+<themekey>WFS</themekey>
+<themekey>WMS</themekey>
+<themekey>SHA</themekey>
+<themekey>State Highway Administration</themekey>
+<themekey>Maryland</themekey>
+<themekey>MD iMAP</themekey>
+<themekey>KML</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The Spatial Data, and the information therein, (collectively the &amp;quot;Data&amp;quot;) is provided &amp;quot;as is&amp;quot; without warranty of any kind, either expressed, implied, or statutory. The user assumes the entire risk as to quality and performance of the Data. No guarantee of accuracy is granted, nor is any responsibility for reliance thereon assumed. In no event shall the State of Maryland be liable for direct, indirect, incidental, consequential or special damages of any kind. The State of Maryland does not accept liability for any damages or misrepresentation caused by inaccuracies in the Data or as a result to changes to the Data, nor is there responsibility assumed to maintain the Data in any manner or form. The Data can be freely distributed as long as the metadata entry is not modified or deleted. Any data derived from the Data must acknowledge the State of Maryland in the metadata.</useconst>
+<datacred>MD iMAP, SHA, DoIT</datacred>
+</idinfo>
+<metainfo>
+<metd>20171221</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
