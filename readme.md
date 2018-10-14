@@ -10,8 +10,10 @@ The Sun's findings and analysis are available in the "analysis" notebook in this
 
 https://twitter.com/baltsundata
 
-# Licensing
+## Licensing
 
 All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). The data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
+
+<br><br>
 
 ![](output/page-1.png)
