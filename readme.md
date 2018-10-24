@@ -14,9 +14,9 @@ https://twitter.com/baltsundata
 
 There are many angles to explore with this data, beyond just the ones we looked into for our story.
 
-We made the `community contributions` folder as a place to store others' contributions. 
+**Have something to contribute?** Send us a [pull request](https://github.com/baltimore-sun-data/bridge-data/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via email (address linked above). We'll make a `community contributions` folder to store your analysis.
 
-**Have something to contribute?** Send us a [pull request](https://github.com/baltimore-sun-data/bridge-data/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via email (address linked above). You can also fork your own copy of this repo to your own account.
+You can also fork your own copy of this repo to your own account.
 
 ## Licensing
 
